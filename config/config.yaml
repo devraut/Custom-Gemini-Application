@@ -1,0 +1,10 @@
+app:
+  name: "Custom Gemini App"
+  version: "1.0.0"
+
+api:
+  key: "${API_KEY}"  # Placeholder, will be replaced by .env
+
+logging:
+  level: "INFO"
+  log_directory: "logs"

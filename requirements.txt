@@ -1,0 +1,6 @@
+flask
+python-dotenv
+pyyaml
+google-generativeai
+markdown
+gunicorn
